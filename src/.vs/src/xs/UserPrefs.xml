@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{0B76D613-B82A-4C74-B0F2-24F88ED4997A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/KweetService/KweetServiceInfrastructure/Persistence/Context/KweetContext.cs">
+    <Files>
+      <File FileName="Services/KweetService/KweetServiceApplication/Class1.cs" Line="1" Column="1" />
+      <File FileName="Services/KweetService/KweetServiceApplication/StartupExtension.cs" Line="14" Column="10" />
+      <File FileName="Services/KweetService/KweetServiceRest/Startup.cs" Line="32" Column="33" />
+      <File FileName="Services/KweetService/KweetServiceApplication/Common/Interfaces/IKweetService.cs" Line="1" Column="1" />
+      <File FileName="Services/KweetService/KweetServiceApplication/Services/KweetService.cs" Line="11" Column="6" />
+      <File FileName="Services/KweetService/KweetServiceInfrastructure/Class1.cs" Line="1" Column="1" />
+      <File FileName="Services/KweetService/KweetServiceInfrastructure/StartupExtension.cs" Line="10" Column="28" />
+      <File FileName="Services/KweetService/KweetServiceDomain/Class1.cs" Line="9" Column="1" />
+      <File FileName="Services/KweetService/KweetServiceDomain/Models/Kweet.cs" Line="6" Column="36" />
+      <File FileName="Services/KweetService/KweetServiceApplication/Common/Interfaces/IKweetContext.cs" Line="12" Column="12" />
+      <File FileName="Services/KweetService/KweetServiceInfrastructure/Persistence/Context/KweetContext.cs" Line="4" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="src" expanded="True">
+            <Node name="KweetService" expanded="True">
+              <Node name="KweetServiceApplication" expanded="True">
+                <Node name="Common" expanded="True">
+                  <Node name="Interfaces" expanded="True" />
+                </Node>
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="KweetServiceDomain" expanded="True">
+                <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="KweetServiceInfrastructure" expanded="True">
+                <Node name="Persistence" expanded="True">
+                  <Node name="Context" expanded="True">
+                    <Node name="KweetContext.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="KweetServiceRest" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.KweetService.KweetServiceApplication FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.KweetService.KweetServiceRest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KweetService.KweetServiceDomain FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ProfileService.Rest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KweetService.KweetServiceInfrastructure FirstBuild="True" />
+</Properties>
